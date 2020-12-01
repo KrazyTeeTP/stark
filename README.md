@@ -24,7 +24,7 @@
 * download pip
 
 ```batch
-open cmd. type "pip install < requirements.txt"
+open cmd. type "pip install -r requirements.txt"
 ```
 
 ## First Step:
